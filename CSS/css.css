@@ -49,6 +49,19 @@ body{
 	border-radius: 50px;
 }
 
+.lf .body .text{
+	margin-top: 2%;
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-right: 2%;
+}
+
+.rt .body .text{
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
 .body .imgs{
 	width: 35%;
 	height: auto;
