@@ -29,6 +29,7 @@ body{
 }
 .text{
 	width: 90%;
+	font-size: 18px;
 	margin-top: 5%;
 	margin-left: 5%;
 	margin-right: 5%;
@@ -84,5 +85,8 @@ body{
 	.rt{
 		width: 100%;
 		display: block;
+	}
+	.text{
+		font-size: 20px;
 	}
 }
